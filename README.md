@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🔭 I’m currently working on: Automating employee attendance tracking and analysis using RPA, and developing data-driven web applications.  <br>👯 I’m looking to collaborate on: Generative AI, data analytics, and full-stack web development projects.  <br>🤝 I’m looking for help with: Advanced AI/ML model deployment and optimization.  <br>🌱 I’m currently learning: React, Next.js, Redux, and advanced Python for data science.  <br>💬 Ask me about: RPA, Python, SQL, Power BI, and automation solutions.  <br>⚡ Fun fact: I enjoy turning repetitive tasks into automated workflows and exploring new tech stacks.<br>
+<br><br>🔭 I’m currently working on: Automating employee attendance tracking and analysis using RPA and developing data-driven web applications.  <br>👯 I’m looking to collaborate on: Generative AI, data analytics,and full-stack web development projects.  <br>🤝 I’m looking for help with: Advanced AI/ML model deployment and optimization.  <br>🌱 I’m currently learning: React, Next.js, Redux and advanced Python for data science.  <br>💬 Ask me about: RPA, Python, SQL, Power BI and automation solutions.  <br>⚡ Fun fact: I enjoy turning repetitive tasks into automated workflows and exploring new tech stacks.<br>
 
 
 ## 🌐 Socials:
