@@ -56,7 +56,6 @@ My core interests include **AI/ML, full-stack engineering, automation, real-time
 - Automation & RPA Engineering
 - Backend / API Engineering
 - Data & Analytics Engineering
-- Open-source collaboration
 
 ---
 
@@ -111,11 +110,11 @@ My core interests include **AI/ML, full-stack engineering, automation, real-time
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Machine Learning | 🟣 Advanced | Predictive analytics, anomaly detection and intelligent decision support |
-| AI / ML Analytics | 🟣 Advanced | Applied AI/ML techniques to identify trends and irregularities |
+| Machine Learning | 🔵 Intermediate | Predictive analytics, anomaly detection and intelligent decision support |
+| AI / ML Analytics | 🔵 Intermediate | Applied AI/ML techniques to identify trends and irregularities |
 | Generative AI | 🔵 Intermediate | Exploring AI-powered applications and intelligent product experiences |
 | Python for AI | 🟣 Advanced | Python-based data processing, analytics and automation |
-| Predictive Analytics | 🟣 Advanced | Absenteeism prediction and workforce-oriented analytics |
+| Predictive Analytics | 🔵 Intermediate | Absenteeism prediction and workforce-oriented analytics |
 | Automation Intelligence | 🟣 Advanced | Combining RPA and analytics to reduce manual operational effort |
 | Data Analysis | 🟣 Advanced | SQL-based extraction, processing and analytical reporting |
 
@@ -261,44 +260,6 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 | 🔄 **End-to-End Engineering** | Built solutions spanning automation, APIs, databases, analytics and system integration |
 
 </div>
-
----
-
-## Certifications
-
-### AWS
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Engineering-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
-### Oracle
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Oracle-Technology-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
-
-### NPTEL
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/NPTEL-Certified-312E81?style=for-the-badge"/>
-
-</p>
-
-### Cisco
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Cisco-Networking-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</p>
-
-> Certification names and credential IDs are intentionally omitted because they are not specified in the available CV information.
 
 ---
 
