@@ -306,28 +306,6 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LohitSaun&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" width="100%">
-</p>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohitsaun&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Lohit's%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
