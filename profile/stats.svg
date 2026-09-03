@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190">
+<rect width="495" height="190" rx="12" fill="#0D1117"/>
+<text x="25" y="38" fill="#A855F7" font-size="22" font-family="Arial" font-weight="bold">GitHub Stats</text>
+<text x="25" y="78" fill="#C9D1D9" font-size="15" font-family="Arial">Public Repositories</text>
+<text x="25" y="103" fill="#FFFFFF" font-size="22" font-family="Arial" font-weight="bold">9</text>
+<text x="185" y="78" fill="#C9D1D9" font-size="15" font-family="Arial">Followers</text>
+<text x="185" y="103" fill="#FFFFFF" font-size="22" font-family="Arial" font-weight="bold">0</text>
+<text x="335" y="78" fill="#C9D1D9" font-size="15" font-family="Arial">Stars</text>
+<text x="335" y="103" fill="#FFFFFF" font-size="22" font-family="Arial" font-weight="bold">0</text>
+<text x="25" y="145" fill="#C9D1D9" font-size="15" font-family="Arial">Forks</text>
+<text x="25" y="170" fill="#FFFFFF" font-size="20" font-family="Arial" font-weight="bold">0</text>
+</svg>
