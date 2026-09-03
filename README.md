@@ -262,36 +262,6 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 ---
 
-## Certifications
-
-> Add only certifications that you actually hold. Certification names and credential IDs were not provided in the CV.
-
-### AWS
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-Certification-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### Oracle
-
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-Certification-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### NPTEL
-
-<p align="center">
-<img src="https://img.shields.io/badge/NPTEL-Certification-312E81?style=for-the-badge"/>
-</p>
-
-### Cisco
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco-Certification-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
----
-
 ## Coding Profiles
 
 <div align="center">
@@ -340,7 +310,9 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 <div align="center">
 
-<img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LohitSaun&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" width="100%">
+</p>
 
 </div>
 
