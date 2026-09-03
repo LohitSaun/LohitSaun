@@ -288,21 +288,16 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LohitSaun&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohitSaun&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
+</p>
 
-<a href="https://github.com/lohitsaun">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lohitsaun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LohitSaun&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
-<a href="https://github.com/lohitsaun">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohitsaun&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=lohitsaun&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-</div>
+---
 
 ---
 
