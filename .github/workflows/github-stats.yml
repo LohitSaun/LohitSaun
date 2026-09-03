@@ -9,33 +9,90 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  analytics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7&hide_border=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch GitHub data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p profile
 
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7&hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          curl -L \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2026-03-10" \
+            "https://api.github.com/users/LohitSaun" \
+            -o profile/user.json
 
-      - name: Commit Analytics Cards
+          curl -L \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2026-03-10" \
+            "https://api.github.com/users/LohitSaun/repos?per_page=100" \
+            -o profile/repos.json
+
+      - name: Generate analytics SVGs
+        run: |
+          python3 <<'PY'
+          import json
+          from collections import Counter
+
+          user = json.load(open("profile/user.json"))
+          repos = json.load(open("profile/repos.json"))
+
+          total_stars = sum(r.get("stargazers_count", 0) for r in repos)
+          total_forks = sum(r.get("forks_count", 0) for r in repos)
+
+          languages = Counter()
+          for repo in repos:
+              lang = repo.get("language")
+              if lang:
+                  languages[lang] += 1
+
+          top_languages = languages.most_common(6)
+
+          def esc(text):
+              return str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+          stats = f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190">
+          <rect width="495" height="190" rx="12" fill="#0D1117"/>
+          <text x="25" y="38" fill="#A855F7" font-size="22" font-family="Arial" font-weight="bold">GitHub Stats</text>
+          <text x="25" y="78" fill="#C9D1D9" font-size="15" font-family="Arial">Public Repositories</text>
+          <text x="25" y="103" fill="#FFFFFF" font-size="22" font-family="Arial" font-weight="bold">{user.get("public_repos", 0)}</text>
+          <text x="185" y="78" fill="#C9D1D9" font-size="15" font-family="Arial">Followers</text>
+          <text x="185" y="103" fill="#FFFFFF" font-size="22" font-family="Arial" font-weight="bold">{user.get("followers", 0)}</text>
+          <text x="335" y="78" fill="#C9D1D9" font-size="15" font-family="Arial">Stars</text>
+          <text x="335" y="103" fill="#FFFFFF" font-size="22" font-family="Arial" font-weight="bold">{total_stars}</text>
+          <text x="25" y="145" fill="#C9D1D9" font-size="15" font-family="Arial">Forks</text>
+          <text x="25" y="170" fill="#FFFFFF" font-size="20" font-family="Arial" font-weight="bold">{total_forks}</text>
+          </svg>'''
+
+          langs = '<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190">'
+          langs += '<rect width="495" height="190" rx="12" fill="#0D1117"/>'
+          langs += '<text x="25" y="38" fill="#A855F7" font-size="22" font-family="Arial" font-weight="bold">Top Languages</text>'
+
+          y = 70
+          for lang, count in top_languages:
+              langs += f'<text x="25" y="{y}" fill="#C9D1D9" font-size="15" font-family="Arial">{esc(lang)}</text>'
+              langs += f'<rect x="145" y="{y-13}" width="{min(count*45,280)}" height="12" rx="6" fill="#A855F7"/>'
+              langs += f'<text x="440" y="{y}" fill="#FFFFFF" font-size="14" font-family="Arial">{count}</text>'
+              y += 20
+
+          langs += '</svg>'
+
+          open("profile/stats.svg", "w").write(stats)
+          open("profile/top-langs.svg", "w").write(langs)
+          PY
+
+      - name: Commit analytics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update GitHub analytics cards" || exit 0
+          git add profile/
+          git commit -m "Update GitHub analytics" || exit 0
           git push
