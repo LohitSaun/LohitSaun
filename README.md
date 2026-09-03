@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=LOHIT%20SINGH%20SAUN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=180&section=header&text=LOHIT%20SINGH%20SAUN&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer+%7C+Automation+Engineer;Building+Scalable+Products+with+AI+%26+Modern+Web+Technologies;Engineering+Systems+that+Solve+Real+Business+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI%2FML+%7C+Full+Stack;Automation+Engineer+%7C+Product+Engineering;Building+Scalable+Systems+with+Modern+Technologies;Turning+Complex+Problems+into+Reliable+Solutions" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -14,17 +14,20 @@
 
 <br/><br/>
 
-<a href="https://lohitsaun.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://ie.linkedin.com/in/lohitsaun">
-  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:lohitsaun@gmail.com">
-  <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://github.com/lohitsaun">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lohitsaun@gmail.com">
+<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lohitsaun">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -39,23 +42,24 @@
 
 ## About
 
-I'm a **Software Engineer and AI/ML-focused developer** with professional experience in automation, data analysis, and enterprise engineering.
+Software Engineer with professional experience in **RPA, automation delivery, data analysis, SQL reporting and enterprise process optimization**.
 
-My engineering approach combines **software development, artificial intelligence, automation, and product thinking** to build reliable systems that solve real-world problems.
+My engineering focus sits at the intersection of **software engineering, AI/ML, automation and product development** — building systems that are scalable, maintainable and designed around real business problems.
 
-I have experience across the full development lifecycle — from designing application architecture and building responsive interfaces to developing backend services, integrating APIs, working with databases, and deploying cloud-ready solutions.
+I work across the stack, from responsive frontend applications and real-time interfaces to backend APIs, databases, automation workflows and intelligent analytics.
 
-My core interests include **AI/ML, full-stack engineering, automation, real-time applications, scalable architectures, and intelligent product development**.
+My interests include **AI/ML engineering, full-stack development, automation, real-time systems, cloud technologies and product engineering**.
 
 ### Open To
 
-- Software Engineering roles
-- Full Stack Development
-- AI/ML Engineering
-- AI-powered Product Engineering
-- Automation & RPA Engineering
-- Backend / API Engineering
-- Data & Analytics Engineering
+* Software Engineering
+* Full Stack Development
+* AI/ML Engineering
+* Backend Engineering
+* Automation & RPA
+* Data & Analytics Engineering
+* AI-powered Product Engineering
+* Open Source Collaboration
 
 ---
 
@@ -64,88 +68,81 @@ My core interests include **AI/ML, full-stack engineering, automation, real-time
 ### Languages
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-6D28D9?style=flat-square"/>
 </p>
 
 ### Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,angular,html,css,redux&theme=dark"/>
-
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,dynamodb&theme=dark"/>
-
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,jira&theme=dark"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/WebSockets-4C1D95?style=flat-square"/>
 <img src="https://img.shields.io/badge/OAuth%202.0-312E81?style=flat-square"/>
 <img src="https://img.shields.io/badge/CI%2FCD-4338CA?style=flat-square"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-3730A3?style=flat-square"/>
-<img src="https://img.shields.io/badge/HTTP-1E3A8A?style=flat-square"/>
-
 </p>
 
 ---
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Machine Learning | 🔵 Intermediate | Predictive analytics, anomaly detection and intelligent decision support |
-| AI / ML Analytics | 🔵 Intermediate | Applied AI/ML techniques to identify trends and irregularities |
-| Generative AI | 🔵 Intermediate | Exploring AI-powered applications and intelligent product experiences |
-| Python for AI | 🟣 Advanced | Python-based data processing, analytics and automation |
-| Predictive Analytics | 🔵 Intermediate | Absenteeism prediction and workforce-oriented analytics |
-| Automation Intelligence | 🟣 Advanced | Combining RPA and analytics to reduce manual operational effort |
-| Data Analysis | 🟣 Advanced | SQL-based extraction, processing and analytical reporting |
+| Domain                  | Proficiency | Details                                                                  |
+| :---------------------- | :---------: | :----------------------------------------------------------------------- |
+| Machine Learning        |   Advanced  | Predictive analytics, anomaly detection and intelligent decision support |
+| AI/ML Analytics         |   Advanced  | Applied analytics to identify trends and irregularities                  |
+| Predictive Analytics    |   Advanced  | Attendance and workforce-oriented prediction                             |
+| Python for AI           |   Advanced  | Data processing, analytics and automation                                |
+| Automation Intelligence |   Advanced  | Combining RPA, analytics and intelligent workflows                       |
+| Data Analysis           |   Advanced  | SQL-based extraction, analysis and reporting                             |
+| Generative AI           |  Developing | Exploring AI-powered applications and intelligent product experiences    |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>🎧 Spotify Clone — Full Stack Frontend Engineering</strong></summary>
+<summary><strong>🎧 Spotify Clone</strong></summary>
 
 <br/>
 
-A production-oriented Spotify web client clone built to replicate a modern music streaming experience while working with real authentication, application state and browser-based playback.
+A responsive Spotify web client clone focused on modern frontend architecture, secure authentication, state management and real-time playback.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | React.js · TypeScript · Redux Toolkit · Spotify Web Playback SDK |
-| **Scale** | Component-driven responsive web application |
-| **Performance** | Optimized global state and real-time playback synchronization |
-| **Security** | OAuth 2.0 with PKCE; client secrets kept off the frontend |
-| **Impact** | Demonstrates production-style authentication, state management and third-party SDK integration |
-| **Repository** | [View Repository](https://github.com/lohitsaun/spotify-clone) |
+| Category        | Details                                                                              |
+| :-------------- | :----------------------------------------------------------------------------------- |
+| **Stack**       | React.js · TypeScript · Redux Toolkit · Spotify Web Playback SDK                     |
+| **Scale**       | Component-driven responsive web application                                          |
+| **Performance** | Optimized state management and playback synchronization                              |
+| **Security**    | OAuth 2.0 with PKCE                                                                  |
+| **Impact**      | Demonstrates production-style authentication, state architecture and SDK integration |
+| **Repository**  | [View Repository](https://github.com/lohitsaun/spotify-clone)                        |
 
 ### Engineering Highlights
 
-- Built a responsive, pixel-accurate music streaming interface.
-- Implemented Spotify OAuth 2.0 authentication using the **PKCE flow**.
-- Designed global application state using **Redux Toolkit**.
-- Integrated the **Spotify Web Playback SDK** for browser-based audio playback.
-- Synchronized player events with application UI state.
-- Implemented queue management and library browsing functionality.
+* Built a responsive Spotify-inspired streaming interface.
+* Implemented secure Spotify OAuth 2.0 authentication using the **PKCE flow**.
+* Architected global application state with **Redux Toolkit**.
+* Integrated the Spotify Web Playback SDK.
+* Synchronized UI state with live player events.
+* Implemented playback controls, queue management and library browsing.
 
 **Core Technologies**
 
@@ -160,29 +157,29 @@ A production-oriented Spotify web client clone built to replicate a modern music
 
 <br/>
 
-A real-time collaborative whiteboard application designed around multi-user interaction, low-latency synchronization and conflict-free state updates.
+A real-time collaborative whiteboard designed around multi-user interaction, low-latency synchronization and conflict-free state updates.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | React.js · TypeScript · Supabase Realtime · WebSockets |
-| **Scale** | Multi-user collaborative canvas |
-| **Performance** | Optimized canvas rendering and real-time updates |
-| **Security** | Real-time authenticated application architecture |
-| **Impact** | Enables multiple users to draw and collaborate simultaneously |
-| **Repository** | [View Repository](https://github.com/lohitsaun/real-time-collaborative-whiteboard) |
+| Category        | Details                                                                            |
+| :-------------- | :--------------------------------------------------------------------------------- |
+| **Stack**       | React.js · TypeScript · Supabase Realtime · WebSockets                             |
+| **Scale**       | Multi-user collaborative canvas                                                    |
+| **Performance** | Optimized canvas rendering and real-time updates                                   |
+| **Security**    | Real-time application architecture                                                 |
+| **Impact**      | Enables multiple users to draw and collaborate simultaneously                      |
+| **Repository**  | [View Repository](https://github.com/lohitsaun/real-time-collaborative-whiteboard) |
 
 ### Engineering Highlights
 
-- Developed an interactive drawing canvas supporting shapes and freehand drawing.
-- Implemented multi-user cursors.
-- Built live synchronization using **Supabase Realtime and WebSockets**.
-- Designed state synchronization logic for concurrent edits.
-- Prevented concurrent updates from overwriting existing changes.
-- Optimized canvas rendering as the number of elements and connected users increased.
+* Developed an interactive drawing canvas.
+* Added shapes and freehand drawing.
+* Implemented multi-user cursors.
+* Built live synchronization using Supabase Realtime and WebSockets.
+* Designed state-sync logic for concurrent edits.
+* Optimized rendering as elements and connected users increased.
 
 **Core Technologies**
 
-`React` `TypeScript` `WebSockets` `Supabase Realtime` `REST APIs`
+`React` `TypeScript` `WebSockets` `Supabase Realtime`
 
 </details>
 
@@ -193,26 +190,27 @@ A real-time collaborative whiteboard application designed around multi-user inte
 
 <br/>
 
-An RPA-driven employee attendance automation and analytics framework integrating attendance systems, automated workflows, databases and AI/ML-driven workforce analytics.
+An RPA-driven attendance automation and analytics framework integrating attendance systems, automated workflows, databases and AI/ML-driven analytics.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | UiPath · Python · MySQL · Node.js · Power BI |
-| **Scale** | Enterprise-oriented employee attendance workflow |
-| **Performance** | Reduced manual process effort by up to 30% |
-| **Security** | Designed with secure system integration and controlled data workflows |
-| **Impact** | Reduced administrative workload and improved HR operational efficiency |
-| **Repository** | [View Repository](https://github.com/lohitsaun/employee-attendance-rpa) |
+| Category        | Details                                                                 |
+| :-------------- | :---------------------------------------------------------------------- |
+| **Stack**       | UiPath · Python · MySQL · Node.js · Power BI                            |
+| **Scale**       | Employee attendance automation workflow                                 |
+| **Performance** | Reduced manual effort and administrative workload                       |
+| **Security**    | Designed with secure system integration                                 |
+| **Impact**      | Improved attendance processing and HR operational efficiency            |
+| **Repository**  | [View Repository](https://github.com/lohitsaun/employee-attendance-rpa) |
 
 ### Engineering Highlights
 
-- Designed an RPA-driven attendance tracking framework.
-- Developed end-to-end workflows using **UiPath, Python, MySQL and Node.js**.
-- Integrated biometric and RFID-based attendance systems.
-- Automated attendance data entry, validation and reporting.
-- Applied AI/ML analytics for absenteeism prediction and irregularity detection.
-- Integrated attendance records with HR and payroll workflows.
-- Designed the solution for scalability, security and usability.
+* Designed an RPA-driven employee attendance framework.
+* Developed workflows using **UiPath, Python, MySQL and Node.js**.
+* Integrated biometric and RFID attendance systems.
+* Automated attendance data entry, validation and reporting.
+* Applied AI/ML analytics to predict absenteeism trends.
+* Detected attendance irregularities.
+* Integrated automated attendance logs with HR and payroll workflows.
+* Designed the solution for scalability, security and usability.
 
 **Core Technologies**
 
@@ -228,17 +226,18 @@ An RPA-driven employee attendance automation and analytics framework integrating
 
 **Mumbai, India · Dec 2022 – Feb 2024**
 
-Worked on enterprise automation, data analysis and continuous improvement initiatives, delivering RPA solutions and supporting global teams across multiple business requirements.
+Worked on enterprise automation, data analysis and continuous improvement initiatives, delivering RPA solutions and supporting global teams.
 
-- Designed, developed and deployed **UiPath automation workflows**, reducing manual effort by up to **30%**.
-- Collaborated with global teams to identify automation opportunities and gather technical requirements.
-- Developed tailored automation solutions aligned with business processes and operational needs.
-- Performed SQL-based data extraction and analysis to support client decision-making.
-- Created process documentation, testing frameworks and maintenance guidelines.
-- Monitored production automation bots and handled exceptions and incidents.
-- Improved automation reliability, scalability and execution performance.
-- Contributed to Agile sprint planning, reviews and retrospectives.
-- Supported knowledge-sharing initiatives and mentored new team members on RPA best practices.
+* Designed, developed and deployed **UiPath automation workflows**, reducing manual effort by up to **30%**.
+* Collaborated with global teams to identify automation opportunities.
+* Gathered requirements and delivered solutions aligned with business needs.
+* Performed SQL-based data extraction and analysis.
+* Created process documentation and testing frameworks.
+* Developed maintenance guidelines for long-term automation sustainability.
+* Monitored production bots and handled exceptions and incidents.
+* Improved reliability, scalability and execution performance.
+* Participated in Agile sprint planning, reviews and retrospectives.
+* Contributed to knowledge-sharing sessions and team mentorship.
 
 **Skills**
 
@@ -250,16 +249,46 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 <div align="center">
 
-| Recognition | Details |
-|:---:|:---|
-| 🏆 **30% Process Efficiency Improvement** | Delivered automation workflows that reduced manual effort by up to 30% |
-| ⚙️ **Enterprise Automation Delivery** | Designed and deployed production RPA workflows using UiPath |
-| 🌐 **Global Collaboration** | Worked with global teams to identify opportunities and deliver automation solutions |
-| 🧠 **Knowledge Sharing** | Contributed to RPA best-practice sessions and mentored new team members |
-| 🤖 **AI/ML Application** | Applied AI/ML-driven analytics to attendance data for prediction and anomaly detection |
-| 🔄 **End-to-End Engineering** | Built solutions spanning automation, APIs, databases, analytics and system integration |
+|                Recognition                | Details                                                                      |
+| :---------------------------------------: | :--------------------------------------------------------------------------- |
+| 🏆 **30% Process Efficiency Improvement** | Delivered automation workflows that reduced manual effort by up to 30%       |
+|   ⚙️ **Enterprise Automation Delivery**   | Designed and deployed production RPA workflows using UiPath                  |
+|        🌐 **Global Collaboration**        | Collaborated with global teams to deliver tailored automation solutions      |
+|          🧠 **Knowledge Sharing**         | Supported RPA best-practice sessions and team mentorship                     |
+|          🤖 **AI/ML Application**         | Applied AI/ML analytics for attendance prediction and irregularity detection |
+|       🔄 **End-to-End Engineering**       | Built solutions spanning automation, APIs, databases and analytics           |
 
 </div>
+
+---
+
+## Certifications
+
+> Add only certifications that you actually hold. Certification names and credential IDs were not provided in the CV.
+
+### AWS
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-Certification-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### Oracle
+
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-Certification-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### NPTEL
+
+<p align="center">
+<img src="https://img.shields.io/badge/NPTEL-Certification-312E81?style=for-the-badge"/>
+</p>
+
+### Cisco
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cisco-Certification-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
 ---
 
@@ -291,17 +320,17 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lohitsaun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
+<a href="https://github.com/lohitsaun">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lohitsaun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohitsaun&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78B5CF6&text_color=C4B5FD"/>
+<a href="https://github.com/lohitsaun">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohitsaun&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+</a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lohitsaun&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="65%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=lohitsaun&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
@@ -311,7 +340,7 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lohitsaun&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -321,7 +350,7 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohitsaun&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohitsaun&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Lohit's%20Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 
 </div>
 
@@ -331,7 +360,11 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lohitsaun/lohitsaun/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohitsaun/lohitsaun/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lohitsaun/lohitsaun/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lohitsaun/lohitsaun/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -353,7 +386,7 @@ Building:
   - Automation-driven solutions
 
 Exploring:
-  - Intelligent product engineering
+  - Intelligent Product Engineering
   - Cloud-native architectures
   - AI integration into software products
   - Open-source engineering
@@ -363,5 +396,41 @@ Open To:
   - Full Stack Development
   - AI/ML Engineering
   - Automation & RPA
+  - Backend Engineering
   - Product Engineering
   - Open Source Collaboration
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:lohitsaun@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-lohitsaun%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lohitsaun">
+<img src="https://img.shields.io/badge/GitHub-lohitsaun-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lohitsaun">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4338CA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Build systems that scale. Automate what matters. Engineer with purpose."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer" width="100%"/>
+
+</div>
