@@ -289,8 +289,8 @@ Worked on enterprise automation, data analysis and continuous improvement initia
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LohitSaun&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohitSaun&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats">
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages">
 </p>
 
 <p align="center">
